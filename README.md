@@ -49,4 +49,10 @@ at1yd9lx5sggs6usth3mndhukup5lgy0m5zgjwwzpe5lunpxhsj5yzsagfzwf
 
 Use this ID to interact with or verify the deployed program on the Aleo network.
 
+### Execution ID:
+
+mint_public: at1jzr6lc49q00vkr6ndgq0cct7jc2095grxhmuc5jpk9c3q42ydcrqwrp4c0
+
+mint_private: at1av23dlc4cvqj5klad5ernnkzqyjdygqqutpfdgsglcx93x6prcqqzhszra
+
 This is the Leo project scaffolding for the Aleo compliant private tokens workshop.  For more information, head over to the [main repository](https://github.com/alex-aleo/private-token-workshop).
