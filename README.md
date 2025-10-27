@@ -55,4 +55,6 @@ mint_public: at1jzr6lc49q00vkr6ndgq0cct7jc2095grxhmuc5jpk9c3q42ydcrqwrp4c0
 
 mint_private: at1av23dlc4cvqj5klad5ernnkzqyjdygqqutpfdgsglcx93x6prcqqzhszra
 
+transfer_public: at1w2whtvtz85wzyw5k8a6en3v5nl6dhntltaswmuzla0qhhjuvncpqrzarev
+
 This is the Leo project scaffolding for the Aleo compliant private tokens workshop.  For more information, head over to the [main repository](https://github.com/alex-aleo/private-token-workshop).
